@@ -1,0 +1,44 @@
+[
+  {
+    "name": "lunaferry.com",
+    "ask": 2200,
+    "tag": "Lunar & orbital transport",
+    "pitch": "A clean, evocative two-word .com for cislunar logistics \u2014 the kind of name a moon-cargo or orbital-transfer company can build a brand on. Says what it does without being literal.",
+    "appraised": "$250 \u2013 $2,000"
+  },
+  {
+    "name": "selenocentric.com",
+    "ask": 1800,
+    "tag": "Lunar science",
+    "pitch": "A real scientific term (selenocentric orbit: moon-centered, as geocentric is earth-centered). Precise vocabulary for a lunar navigation, mapping, or space-science venture.",
+    "appraised": "$200 \u2013 $1,500"
+  },
+  {
+    "name": "singularon.com",
+    "ask": 1500,
+    "tag": "AI / deep tech",
+    "pitch": "A confident coined brandable in the singularity/AI register. Pronounceable on first hearing, spellable from speech, and free of the platform-prefix traps that plague AI naming.",
+    "appraised": "$100 \u2013 $1,000"
+  },
+  {
+    "name": "orbiferry.com",
+    "ask": 900,
+    "tag": "Space logistics",
+    "pitch": "Orbital ferry, compressed into a brandable. For in-space transfer, satellite servicing, or last-mile orbital delivery.",
+    "appraised": "$0 \u2013 $500"
+  },
+  {
+    "name": "petaqubit.com",
+    "ask": 800,
+    "tag": "Quantum computing",
+    "pitch": "Peta-scale + qubit: the vocabulary of quantum computing at the scale it's heading toward. An early claim on a rising term.",
+    "appraised": "$0 \u2013 $250"
+  },
+  {
+    "name": "orbitug.com",
+    "ask": 800,
+    "tag": "Space logistics",
+    "pitch": "Orbital tug \u2014 the actual industry term for a spacecraft that moves other spacecraft between orbits. Short and on-vocabulary.",
+    "appraised": "$0 \u2013 $300"
+  }
+]
